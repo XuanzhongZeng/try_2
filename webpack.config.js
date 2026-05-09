@@ -1,17 +1,14 @@
 const path = require("path")
 module.exports = {
-    entry: {
-        bundle: [
-            "./public/build/babel/app.js",
-            "./public/build/babel/storage.js",
-            "./public/build/babel/categoryView.js",
-            "./public/build/babel/productView.js",
-        ],
-        privacy: "./public/build/babel/privacyPage.js",
-    },
+    entry: [
+        "./public/build/babel/app.js",
+        "./public/build/babel/storage.js",
+        "./public/build/babel/categoryView.js",
+        "./public/build/babel/productView.js",
+    ],
     output: {
         path: path.resolve(__dirname, "public/build/webpack"),
-        filename: "[name].js"
+        filename: "bundle.js"
     },
     module: {
         rules: [{

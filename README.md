@@ -1,40 +1,27 @@
-#  **Inventory App JS**
+# 📦 **Inventory App JS**
 
-[![CI](https://github.com/bestbetternow/try_2/actions/workflows/main.yml/badge.svg)](https://github.com/bestbetternow/try_2/actions/workflows/main.yml)
-[![codecov](https://codecov.io/gh/bestbetternow/try_2/branch/main/graph/badge.svg)](https://codecov.io/gh/bestbetternow/try_2)
-
-**A sleek and efficient inventory management application powered by JavaScript.**
+**A sleek and efficient inventory management application powered by JavaScript.**  
 Easily track, update, and manage your inventory with an intuitive UI and dynamic functionality.
 
-## Running Tests
+---
 
-```bash
-npm install
-npm test              # run unit tests
-npm run test:coverage # run with Istanbul coverage report
-```
+## ✨ **Features**
 
-Coverage target: **80%+ statements / branches / functions / lines** (enforced by Jest `coverageThreshold`).
+- 🛠️ **Dynamic Inventory Tracking:** Real-time updates to your inventory with minimal effort.  
+- 😍 **User-Friendly Interface:** Simplified navigation designed for everyone—no coding experience required!  
+- 🛠️ **Customizable Options:** Adapt the app to suit different business or personal needs.  
+- 📱 **Responsive Design:** Seamless experience across desktop and mobile devices.  
+- ⚡ **Fast & Lightweight:** Built with modern JavaScript principles for optimized performance.  
 
 ---
 
-##  **Features**
+## 🌐 Live Demo
 
--  **Dynamic Inventory Tracking:** The application automatically refreshes stock data, allowing users to track inventory changes effortlessly.  
--  **User-Friendly Interface:** The platform provides simple navigation, perfect for beginners and users with no coding experience.  
--  **Customizable Options:** Users can tweak built-in settings to fit personal storage or small business inventory needs.  
--  **Responsive Design:** The layout adapts to all screen sizes for smooth usage on computers and mobile phones.  
--  **Fast & Lightweight:** Written with vanilla JavaScript, the app runs smoothly without unnecessary dependencies.  
+Check out the live demo [here](https://inventory-rhmti01-tailwind.netlify.app/)!
 
 ---
 
-##  Live Demo
-
-Check out the live demo [here](https://try-2-two.vercel.app/privacy.html)!
-
----
-
-##  **Development**
+## 🛠️ **Development**
 
 Want to contribute? Here's how:
 
@@ -44,19 +31,19 @@ Want to contribute? Here's how:
 
 ---
 
-##  **Contributors**
+## 🤝 **Contributors**
 
 A huge thanks to all contributors for helping make this project awesome! 🙌  
 
 ---
 
-##  **License**
+## 📜 **License**
 
 This project is licensed under the **MIT License**—use it freely, and don't forget to star the repo if you find it helpful! ⭐  
 
 ---
 
-##  **Stay Connected**
+## 🌟 **Stay Connected**
 
 - **Author:** [rhmti01](https://github.com/rhmti01)  
 - **Got Ideas?** Submit an issue or start a discussion—we love hearing from you!
